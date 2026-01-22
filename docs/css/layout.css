@@ -198,11 +198,11 @@ section h2 {
 }
 
 .link {
-  float: left;
+  float: right;
   width: 48%;
   margin-left: 2%;
   margin-top: 20px;
-  line-height: 24PX;
+  line-height: 98PX;
 }
 .footer{
   margin-top: 50px;
