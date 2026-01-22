@@ -5,6 +5,7 @@ body {
   min-width: 800px;
 }
 
+
 .clearfix::before,
 .clearfix::after {
   content:".";
@@ -50,13 +51,13 @@ header {
   overflow: hidden;
 }
 
-.fixed-top {
+/* .fixed-top {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 1;
-}
+} */
 
 nav {
   height: 40px;
@@ -205,7 +206,7 @@ section h2 {
   line-height: 98PX;
 }
 .footer{
-  margin-top: 50px;
+  margin-top: 59px;
 }
 .footer .container{
   display: flex;
